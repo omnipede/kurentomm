@@ -1,0 +1,11 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+**/bower_components
+
+### IntelliJ IDEA ###
+.idea
+
+### Mac OS ###
+.DS_Store
