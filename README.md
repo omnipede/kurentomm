@@ -25,3 +25,5 @@ $ bower install
 ```shell
 $ ./gradlew bootRun -x test
 ```
+
+* http://localhost:8443/index.html 접속
