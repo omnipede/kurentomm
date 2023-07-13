@@ -4,6 +4,7 @@ Kurento Magic Mirror demo
 
 # Requirements
 
+* Docker
 * jdk >= 19
 * bower
 
@@ -20,7 +21,7 @@ $ cd src/main/resources/static
 $ bower install
 ```
 
-* Run server
+* Run application server
 ```shell
 $ ./gradlew bootRun -x test
 ```
